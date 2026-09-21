@@ -1,0 +1,6 @@
+{
+  "name": "Student Performance Classifier",
+  "description": "Supervised learning classification app powered by a Python ML stack that trains on student mark datasets and predicts performance categories such as Excellent, Good, and Poor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
